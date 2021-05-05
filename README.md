@@ -13,3 +13,5 @@ Repo containing course material for the Google Data Anayltics professional certi
 - [ ] Google Data Analytics Capstone: Complete a Case Study
 ______________________________________________
 
+## Links
+* [Google Data Analytics Professional Certificate](https://www.coursera.org/professional-certificates/google-data-analytics)

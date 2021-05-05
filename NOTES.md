@@ -17,7 +17,14 @@ ______________________________________________
 ______________________________________________
 
 # <a name="blank">blank</a>
+First Term
+: This is the definition of the first term.[^footnote]
 
+[^footnote]: this is the footnote
+
+```python
+
+```
 [Back to top](#top)
 ______________________________________________
 
